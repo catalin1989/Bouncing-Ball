@@ -7,9 +7,11 @@ public class App
     public static void main( String[] args )
     {
 
-        Bouncer bouncer= new Bouncer();
+         new MyFrame();
 
-        bouncer.init();
 
-    }
-}
+
+            }
+        }
+
+
